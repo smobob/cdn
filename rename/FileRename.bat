@@ -1,2 +1,2 @@
-javac FileRename.java
+:: javac FileRename.java
 java FileRename
