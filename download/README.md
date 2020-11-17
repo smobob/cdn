@@ -8,7 +8,7 @@
 ```
 https://cdn.jsdelivr.net/gh/habib0606/cdn/download/{文件名}
 ```
-
+weixin-qrcode
 例如：
 
 ```
